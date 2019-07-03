@@ -1,0 +1,1 @@
+console.log('lado do cliente está dando load.')
